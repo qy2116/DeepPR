@@ -8,9 +8,13 @@ If you find any issue, please let me know via email (yuqi10@nudt.edu.cn). I woul
 Table of content
 
 [deepPRLib]
+
   [grad_descent_acc_deepscalar_wobt.m](Function of scalar form over-parameterization DeepPR method, DeepPR-SOP.)
+  
   [grad_descent_acc_deepsqmat_wobt.m](Function of matrix form over-parameterization DeepPR method, DeepPR-MOP.)
+  
   [grad_descent_wobt.m](Function of vanilla gradient descent method.)
+  
   [prodMat.m](Function of matrix product used in 'grad_descent_acc_deepsqmat_wobt.m'.)
 
 [test_DeepPR_SOP_MOP.m](A test of DeepPR method using 1D signal.)
